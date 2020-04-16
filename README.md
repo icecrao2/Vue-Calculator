@@ -32,3 +32,4 @@ npm run test
 ```
 npm run lint
 ```
+# Vue-Calculator
